@@ -11,3 +11,4 @@ Monitor.
 Peripherals.
 Windows unique identifiers.
 and more, you can change it however you like
+# ***TURN OFF YOUR ANTIVIRUS***
